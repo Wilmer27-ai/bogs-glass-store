@@ -1,0 +1,50 @@
+#section4{
+    height: 1000px;
+    background: #39878f;
+    display: inline-block;
+    width: 100%;
+}
+.contactsdetail form{
+    text-align: center;
+    padding: 5% 10%;
+    background-color: #6fb3bb;
+    font-size: 18px;
+    margin-top: 80px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 80px;
+    border-radius: 20px;
+}
+.contactsdetail input{
+display: inline-block;
+  text-align: center;
+  width: 50%;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin-top: 2%;
+  
+}
+.btn{
+    text-decoration: none;
+    color: #fff;
+    background: #388087;
+    padding: 5px 20px;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 25px;
+    border-radius: 6px;
+}
+.btn:hover {
+    opacity: 0.7;
+    transform: scale(1.02);
+  }
+.contactsdetail h2{
+    text-align: center;
+ text-transform: uppercase;
+ margin-top: 5%;
+ margin-bottom: 2%;
+ color: #fdfdfd;
+ font-size: 80px;
+}

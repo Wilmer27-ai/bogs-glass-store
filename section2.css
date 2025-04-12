@@ -1,0 +1,58 @@
+#section2{
+    height: 1000px;
+    background: #39878f;
+    display: inline-block;
+    width: 100%;
+}
+.Productlist{
+ text-align: center;
+ text-transform: uppercase;
+ margin-top: 5%;
+ color: #c2edce;
+ font-size: 40px;
+ 
+}
+.cardbox2{
+display: flex;
+}
+.card h1{
+  font-size: 18px;
+}
+.card {
+    box-shadow: 0 20px 15px 0 rgba(0, 0, 0, 0.2);
+    background-color: rgb(46, 132, 103);
+    max-width: 290px;
+    max-height: 115%;
+    margin-left: 2%;
+    margin-top: -40%;
+    text-align: center;
+    font-family: arial;
+  }
+   .price {
+    color: rgb(251, 247, 247);
+    font-size: 20px;
+  }
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(15, 14, 14);
+    background-color: #c2edce;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .card button:hover {
+    opacity: 0.7;
+    transform: scale(1.02);
+  }
+.row{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+  }
+
+
+
